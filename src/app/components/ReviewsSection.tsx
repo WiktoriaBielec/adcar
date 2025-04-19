@@ -27,7 +27,7 @@ export function ReviewsSection() {
   return (
     <section id="opinie" className="lg:scroll-mt-32 bg-gray-50 py-16 px-4">
       <div className="max-w-5xl mx-auto">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-12">Opinie klientów</h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-center text-black mb-12">Opinie klientów</h2>
 
         <div className="flex flex-col gap-8 md:gap-10 lg:flex-row lg:justify-between">
           {reviews.map((review, index) => (
