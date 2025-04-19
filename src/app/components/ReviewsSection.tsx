@@ -40,7 +40,7 @@ export function ReviewsSection() {
               viewport={{ once: true }}
             >
               <div className="flex justify-between items-center">
-                <span className="font-semibold text-lg">{review.name}</span>
+                <span className="font-semibold text-lg text-gray-700">{review.name}</span>
                 <div className="w-6 h-6 relative group-hover:scale-110 transition-all duration-300">
                   <Image
                     src="/images/thumb-desktop.png"

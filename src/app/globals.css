@@ -52,7 +52,7 @@ h1 {
 }
 
 h2 {
-  @apply text-[1.5rem] md:text-[1.75rem] font-semibold;
+  @apply text-[1.5rem] md:text-[1.75rem] font-semibold text-black;
   font-family: var(--font-public-sans), sans-serif;
 }
 
