@@ -68,7 +68,7 @@ export default function Navbar() {
     
     {/* Full-screen mobile menu */}
     {isOpen && (
-        <div className="fixed inset-0 bg-black bg-opacity-80 z-40 flex justify-center ">
+        <div className=" min-h-[640px] fixed inset-0 bg-black bg-opacity-80 z-40 flex justify-center ">
         <div className="w-full h-full flex flex-col justify-center space-y-6 py-20 px-8">
 
             <Link href="#home" className="text-2xl text-black" onClick={() => setIsOpen(false)}><li>Strona główna</li></Link>
