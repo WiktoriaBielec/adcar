@@ -34,8 +34,8 @@ export function ReviewsSection() {
             <motion.div
               key={index}
               className="group bg-white p-6 shadow-md flex flex-col gap-4 w-full lg:max-w-[30%] transition-transform duration-300 transform hover:scale-[1.03] hover:shadow-xl hover:bg-gray-200"
-              initial={{ opacity: 0 }}
-              whileInView={{ opacity: 1 }}
+              initial={{ opacity: 0, scale: 0.95 }}
+              whileInView={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.6, ease: "easeOut", delay: index * 0.2 }}
               viewport={{ once: true }}
             >
