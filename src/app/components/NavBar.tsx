@@ -44,7 +44,7 @@ export default function Navbar() {
         {/* Mobile / Tablet menu */}
         <div className="flex items-center space-x-4 lg:hidden">
             {!isOpen && (
-                <a href="tel:+48123456789" aria-label="Zadzwoń">
+                <a href="tel:+48503013451" aria-label="Zadzwoń">
                 <Image
                     src="/icons/phone-mobile.png"
                     alt="Telefon"
@@ -79,10 +79,10 @@ export default function Navbar() {
 
             <div className="mt-4">
                 <h5 className="text-white uppercase">ul. Gaik 25A</h5>
-                <h5 className="text-white uppercase">00-000 Kraków</h5>
+                <h5 className="text-white uppercase">31-338 Kraków</h5>
             </div>
             <a 
-                href="tel:+48123456789" 
+                href="tel:+48503013451" 
                 aria-label="Zadzwoń" 
                 className="mt-20 flex text-white uppercase font-bold tracking-widest">
                 Zadzwoń
