@@ -79,7 +79,7 @@ export default function Navbar() {
 
             <div className="mt-4">
                 <h5 className="text-white uppercase">ul. Gaik 25A</h5>
-                <h5 className="text-white uppercase">31-338 Kraków</h5>
+                <h5 className="text-white uppercase">31-338 Kraków (Tonie)</h5>
             </div>
             <a 
                 href="tel:+48503013451" 

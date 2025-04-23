@@ -21,7 +21,7 @@ export function ContactSection() {
           <div className="flex flex-col gap-2">
             <h4 className="text-xl font-semibold">Adres</h4>
             <p>ul. Gaik 25a</p>
-            <p>31-338 Kraków</p>
+            <p>31-338 Kraków (Tonie)</p>
           </div>
           <div className="flex flex-col gap-2">
             <h4 className="text-xl font-semibold">E-mail</h4>
@@ -46,7 +46,7 @@ export function ContactSection() {
           <div className="flex flex-col gap-4">
             <h4 className="text-xl font-semibold">Adres</h4>
             <p>ul. Gaik 25a</p>
-            <p>31-338 Kraków</p>
+            <p>31-338 Kraków (Tonie)</p>
             <h4 className="text-xl font-semibold">E-mail</h4>
             <p>arti.a@interia.pl</p>
 

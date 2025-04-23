@@ -23,7 +23,7 @@ export function AboutSection() {
           <div className="hidden md:block space-y-2 md:space-y-10 lg:space-y-6">
             <p>
               Od 10 lat zajmujemy się naprawą karoserii, usuwaniem wgnieceń i renowacją nadwozia. 
-              Oferujemy kompleksowe usługi blacharskie – od drobnych poprawek po poważne naprawy powypadkowe.
+              Oferujemy kompleksowe usługi blacharskie – od drobnych poprawek po poważne naprawy powypadkowe - rozliczenia bezgotówkowe.
             </p>
             <p>
               Dbamy o precyzję i jakość, przywracając pojazdom pierwotny wygląd. Skontaktuj się z nami!
